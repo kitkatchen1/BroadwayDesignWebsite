@@ -13,7 +13,7 @@ h1 {
   color: white;
 }
 
-.links {
+.linkhead {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
@@ -50,4 +50,8 @@ p{
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.linkfoot {
+  color: white;
 }
